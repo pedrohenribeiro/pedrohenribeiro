@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro Henrique, estudante de Análise e Desenvolvimento de Sistemas 👋
 
-Estou realizando o projeto de API do Primeiro Semestre da Fatec-SJC
+Estou realizando o projeto de API do Segundo Semestre da Fatec-SJC
 <div style="display: inline_block"><br>
   
   <br>
